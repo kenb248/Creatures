@@ -1,0 +1,12 @@
+Sentry:black
+ifenemy2 5
+ifsame 8
+twist
+go 1
+infect
+wait
+go 1
+twist
+go 1
+
+This creature kills 2 ahead

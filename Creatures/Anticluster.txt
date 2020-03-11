@@ -1,0 +1,32 @@
+Anticluster:#a67b5b
+ifenemy2 22
+ifsame 24
+ifnotwall 26
+twist
+ifenemy2 22
+ifsame 24
+hop
+ifenemy2 22
+ifsame 24
+twist
+ifenemy2 22
+ifsame 24
+ifnotwall 28
+reversetwist
+ifenemy2 22
+ifsame 24
+hop
+ifenemy2 22
+ifsame 24
+reversetwist
+go 1
+explode
+go 1
+reverse
+go 1
+hop
+go 1
+hop
+go 11
+
+This creature explodes

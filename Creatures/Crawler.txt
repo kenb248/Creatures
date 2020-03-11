@@ -1,0 +1,18 @@
+Crawler:green
+ifenemy 14
+ifsame 16
+ifnotwall 12
+twist
+ifenemy 14
+ifsame 16
+hop
+ifenemy 14
+ifsame 16
+twist
+go 1
+hop
+go 1
+infect
+go 1
+reverse
+go 1

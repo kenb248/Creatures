@@ -1,0 +1,20 @@
+Twister:red
+ifenemy 14
+ifsame 16
+hop
+ifenemy 14
+ifsame 16
+twist
+ifenemy 14
+ifsame 16
+hop
+ifenemy 14
+ifsame 16
+reversetwist
+go 1
+infect
+go 1
+reverse
+go 1
+
+This creature  moves in diagonals

@@ -1,0 +1,15 @@
+Randy:#4b5320
+ifenemy 11
+ifsame 13
+ifrandom 6
+hop
+go 1
+ifrandom 9
+twist
+go 1 
+reverse
+go 1
+infect 
+go 1 
+reversetwist
+go 1

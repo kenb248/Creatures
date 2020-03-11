@@ -1,0 +1,16 @@
+Advrook:blue
+ifenemy 10
+ifsame 4
+ifnotwall 6
+reverse
+go 1
+ifenemy 10
+ifsame 4
+hop
+go 1 
+infect
+ifsame 4
+reversetwist
+go 1
+
+this is an updated version of the rook
